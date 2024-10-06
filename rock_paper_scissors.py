@@ -52,3 +52,6 @@ print("Thank you for playing")
 
 
 
+print("\u270A")  # Rock :fist:
+print("\u270B")  # Paper :raised_hand:
+print("\u270C")  # Scissors ✌
