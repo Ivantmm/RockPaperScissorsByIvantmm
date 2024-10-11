@@ -7,7 +7,7 @@ player_move_new_game = ""
 
 while True:
 
-    player_move = input("Choose [r]ock, [p]aper or [s]cissors: ")
+    player_move = input("Choose [r]ock=, [p]aper or [s]cissors: ")
 
     if player_move == "r":
         player_move = rock
@@ -52,6 +52,6 @@ print("Thank you for playing")
 
 
 
-print("\u270A")  # Rock :fist:
-print("\u270B")  # Paper :raised_hand:
-print("\u270C")  # Scissors ✌
+# print("\u270A")  # Rock :fist:
+# print("\u270B")  # Paper :raised_hand:
+# print("\u270C")  # Scissors ✌
